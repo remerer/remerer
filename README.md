@@ -23,28 +23,40 @@ Here are some ideas to get you started:
 
   <!--프론트/클라이언트-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
-
-  <br/>
+  <br>
   <!--백-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <br/>
-  <!--언어 및 툴 -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
+  <br>
+  <!--언어 -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cplusplus-00599C?style=flat&logo=Cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=CSharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=Jekyll&logoColor=white"/>
+  <br>
+  <!--툴 -->
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
+
+
   <br/><br/>
 
   <!--공부중 -->
   ## Studying :pencil2:
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+  <!--프론트/클라이언트-->
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <!--백-->
   <br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=flat&logo=JetpackCompose&logoColor=white"/>
+
+
   <!--언어 및 툴 -->
-  <br/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
   <br/>
   <br/>
 
