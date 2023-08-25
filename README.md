@@ -21,10 +21,11 @@ Here are some ideas to get you started:
   <!--기술스택-->
   ## Skill :four_leaf_clover:
 
-  <!--프론트-->
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+  <!--프론트/클라이언트-->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+
   <br/>
   <!--백-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
@@ -48,9 +49,7 @@ Here are some ideas to get you started:
   <br/>
 
   <!--알고리즘 -->
-  <a href="https://github.com/remerer/Algorithm" >
-    ## Problem Solving :muscle:
-  </a>
+  ## Problem Solving :muscle:
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=remerer)](https://solved.ac/remerer)<br/>
 
